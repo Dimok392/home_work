@@ -8,4 +8,3 @@ else
     {
      Console.WriteLine($"Значение {b} больше чем {a} ");
     }
-
